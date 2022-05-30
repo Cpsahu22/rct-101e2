@@ -70,6 +70,14 @@
       "price": "300",
       "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
       "id": 9
+    },
+    {
+      "title": "gucci",
+      "category": "jeans",
+      "gender": "male",
+      "price": "20000",
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "id": 10
     }
   ]
 }
